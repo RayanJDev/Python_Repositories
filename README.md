@@ -2,10 +2,6 @@
 🐍 Projeto Python Básico
 Um template simples, interativo e pronto para evoluir
 
-https://img.shields.io/badge/Python-3.14.4-blue
-https://img.shields.io/badge/Status-Ativo-brightgreen
-https://img.shields.io/badge/License-MIT-yellow
-
 📌 Sobre o Projeto
 Este repositório serve como ponto de partida para projetos Python simples. Ele inclui uma estrutura mínima, exemplos de código e instruções para rodar e desenvolver rapidamente.
 
